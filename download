@@ -1,0 +1,16 @@
+# YJMob100K data are distributed separately and must not be committed
+data/
+
+# Analysis outputs
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
